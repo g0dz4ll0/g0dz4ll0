@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/goncaoliveira27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goncaoliveira27" height="30" width="40" /></a>
+<a href="https://gitlab.com/g0dz4ll027" target="blank"><img align="center" src="https://miro.medium.com/max/630/1*rXQwmGazoXXpH6E6_53j3A.png" alt="g0dz4ll027" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gon%C3%A7alo-oliveira-a63536117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalo oliveira" height="30" width="40" /></a>
 <a href="https://www.facebook.com/goncalo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gonçalo oliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/goncalo_g0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goncalo_g0d" height="30" width="40" /></a>
