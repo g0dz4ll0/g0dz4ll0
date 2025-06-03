@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gonçalo Oliveira</h1>
-<h3 align="center">A passionate 25 years old Game Developer from Portugal currently taking Master's Degree in Engineering for Video Game Development at IPCA</h3>
+<h3 align="center">A passionate 26 years old Game Developer from Portugal currently taking Master's Degree in Engineering for Video Game Development at IPCA</h3>
 
 - 🔭 I’m currently working on **Project R**, a 3D First Person Fast Paced Roguelike with procedural dungeons
 
