@@ -18,7 +18,7 @@
 <a href="https://instagram.com/goncalo_g0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goncalo_g0d" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCvVUhUWpHYEP1FU_U5yyLQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gonçalo oliveira" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/g0dz4ll0_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g0dz4ll0_27" height="30" width="40" /></a>
-<a href="https://discord.gg/discordapp.com/users/gØÐ¢αllΩ27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/280037356239847425" height="30" width="40" /></a>
+<a href="https://discord.gg/discordapp.com/users/280037356239847425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/280037356239847425" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
